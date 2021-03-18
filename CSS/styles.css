@@ -1,0 +1,19 @@
+/* External CSS- Use the link code to apply style of this web page to other webpages*/
+body {
+  background-color: #ffe2e2;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #f6f6f6;
+  border-width: 6px; /* Makes border style bigger or smaller */
+  width: 5%; /*Makes length of line longer or shorter */
+}
+h1{
+  color: #630000;
+  font-family: "Apple Chancery", cursive; /*write name of font then the font family*/
+}
+h3,h2 {
+  color: #6c5b7b;
+  font-family: "Monaco", sans-serif;
+}
